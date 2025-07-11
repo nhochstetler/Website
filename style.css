@@ -1,10 +1,14 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f5f5f5;
-  color: #333;
+  background-color: #193ee3;
+  color: white;
   padding: 20px;
 }
 
 h1 {
-  color: #007acc;
+  color: white;
+}
+
+a[href="resume.pdf"] {
+  color: white;
 }
